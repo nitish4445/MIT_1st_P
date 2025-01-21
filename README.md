@@ -1,1 +1,1 @@
-# MIT_1st_P
+# MIT_1st_Project
